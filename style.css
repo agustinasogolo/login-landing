@@ -1,0 +1,58 @@
+* {
+    margin: 10px;
+}
+
+body {
+    background-color: #bfbebe;
+    font-family: 'Open Sans', sans-serif;
+}
+
+article {
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: #ffffff;
+    width: 400px;
+    height: 500px;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(81, 81, 81);
+}
+
+form {
+    margin-left: 50px;
+    width: 300px;
+}
+
+img{
+    margin-left: 150px;
+    width: 100px;
+    height: 100px;
+}
+
+#mail, #pass {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100;
+    height: 50px;
+}
+
+#entrar {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 285px;
+    height: 50px;
+    fill: #ffffff;
+    background-color: rgb(52, 95, 160);
+}
+
+#resetear {
+    margin-left: 75px;
+    width: 150px;
+    height: 30;
+}
+
+
