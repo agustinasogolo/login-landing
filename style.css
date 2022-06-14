@@ -4,9 +4,16 @@
 
 body {
     background-color: #bfbebe;
-    font-family: 'Open Sans', sans-serif;
 }
 
+@font-face {
+    font-family: 'Fascinate', cursive;
+    src: url(https://fonts.googleapis.com/css2?family=Fascinate&family=Open+Sans&family=Roboto:wght@300&family=Source+Sans+Pro:wght@600&display=swap);
+}
+
+html {
+    font-family: 'Fascinate', cursive;
+}
 article {
     margin-top: 50px;
     margin-left: 250px;
