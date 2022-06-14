@@ -7,12 +7,12 @@ body {
 }
 
 @font-face {
-    font-family: 'Fascinate', cursive;
-    src: url(https://fonts.googleapis.com/css2?family=Fascinate&family=Open+Sans&family=Roboto:wght@300&family=Source+Sans+Pro:wght@600&display=swap);
+    font-family: 'Roboto', sans-serif;;
+    src: url(https://fonts.googleapis.com/css2?family=Fascinate&family=Open+Sans&family=Roboto:wght@100;300&family=Source+Sans+Pro:wght@600&display=swap);
 }
 
 html {
-    font-family: 'Fascinate', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 article {
     margin-top: 50px;
@@ -52,7 +52,7 @@ img{
     padding-right: 50px;
     width: 285px;
     height: 50px;
-    fill: #ffffff;
+    color: #ffffff;
     background-color: rgb(52, 95, 160);
 }
 
@@ -60,6 +60,7 @@ img{
     margin-left: 75px;
     width: 150px;
     height: 30;
+    color:#ffffff
 }
 
 
